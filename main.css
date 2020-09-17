@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    font-weight: normal;
+}
+
+body {
+    font-family: sans-serif;
+    line-height: 1.5em;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, ol {
+    margin-bottom: 0.75em;
+}
+
+li {
+    margin-left: 2em;
+}
+
+#Container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#PingCanvas {
+    margin-bottom: 0.75em;
+}
